@@ -1,0 +1,35 @@
+## image 2
+# first matching
+618 442		#img1
+263 5		#img2
+
+# second matching
+236 398		#img1
+284 264		#img2
+
+# third matching
+579 95		#img1
+16 63		#img2
+
+#fourth matching
+310 112		#img1
+54 234		#img2
+
+## image 3
+# first matching
+454 417		#img1
+287 269		#img3
+
+# second matching
+402 114		#img1
+273 34		#img3
+
+# third matching
+267 114		#img1
+169 29		#img3
+
+#fourth matching
+228 404		#img1
+117 236		#img2
+
+
